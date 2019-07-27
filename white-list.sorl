@@ -53,7 +53,6 @@
 *.etao.com
 *.ewei.com
 *.fir.im
-*.github.com
 *.guokr.com
 *.gratisography.com
 *.growingio.com
@@ -184,3 +183,17 @@
 
 #又拍云
 *.aicdn.com
+
+# Research
+# ---------------
+*.ieee.org
+*.webofknowledge.com
+*.engineeringvillage.com
+*.springer.com
+*.acm.org
+*.cnki.net
+*.wanfangdata.com.cn
+
+# Live Broadcast
+# ---------------
+*.douyu.com
