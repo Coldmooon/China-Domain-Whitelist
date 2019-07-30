@@ -198,6 +198,7 @@
 # Live Broadcast
 # ---------------
 *.douyu.com
+*.huya.com
 
 # Forum
 *.newsmth.net
