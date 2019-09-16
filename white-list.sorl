@@ -194,6 +194,7 @@
 *.sciencedirect.com
 *.cnki.net
 *.wanfangdata.com.cn
+*.elsevier.com
 
 # Live Broadcast
 # ---------------
@@ -202,3 +203,5 @@
 
 # Forum
 *.newsmth.net
+*.a9vg.com
+*.duowan.com
