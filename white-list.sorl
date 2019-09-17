@@ -196,6 +196,12 @@
 *.wanfangdata.com.cn
 *.elsevier.com
 
+# University
+# ----------------
+*.tsinghua.edu.cn
+*.bupt.edu.cn
+*.edu.cn
+
 # Live Broadcast
 # ---------------
 *.douyu.com
