@@ -197,6 +197,10 @@
 *.wanfangdata.com.cn
 *.elsevier.com
 
+# Engineering
+# ----------------
+*.leetcode.com
+
 # University
 # ----------------
 *.tsinghua.edu.cn
