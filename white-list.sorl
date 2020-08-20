@@ -221,6 +221,7 @@
 *.71edge.com
 
 # Forum
+# ---------------
 *.newsmth.net
 *.byr.cn
 *.a9vg.com
@@ -231,3 +232,8 @@
 *.feng.com
 *.flyertea.com
 *.freemdict.com
+
+# Sharing
+# ---------------
+*.zsxq.com
+
